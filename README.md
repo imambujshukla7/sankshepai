@@ -50,7 +50,7 @@ Before you start, ensure you have the following software installed on your compu
 2. **Navigate to the project directory:**
 
    ```bash
-   cd sankshep-ai
+   cd sankshepai
    ```
 
 3. **Install project dependencies:**
