@@ -1,7 +1,5 @@
 # Sankshep AI - Web-based Content Summarizer
 
-![Sankshep AI Logo](src/assets/Sanksheplogo.png)
-
 ## Table of Contents
 
 - [About](#about)
@@ -18,8 +16,6 @@
 ## About
 
 Sankshep AI is a web-based AI content summarizer designed to quickly extract key insights from articles and webpages. Users can paste the URL of a target article or webpage, and Sankshep AI will provide a concise summary in a single paragraph. The application also features a history section for easy access to previously summarized links.
-
-![Sankshep AI Demo](demo-screenshot.png)
 
 ## Features
 
