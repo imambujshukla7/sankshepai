@@ -1,4 +1,4 @@
-# Sankshep AI - Web-based Content Summarizer
+# Sankshep AI 
 
 ## Table of Contents
 
